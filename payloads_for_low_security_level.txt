@@ -1,0 +1,2 @@
+Payload intended to be delivered via browser or Burp Suite:
+http://192.168.56.105/DVWA/vulnerabilities/api/v1/user/
